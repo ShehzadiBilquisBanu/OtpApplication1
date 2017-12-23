@@ -10,6 +10,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         //I Love You So Much...
+ // LOVE YOU SO MUCH JAANU
+
+        //I Love You, Shehzu..
+        //Love You too Jaanu
+
     }
 }
